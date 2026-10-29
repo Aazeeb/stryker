@@ -1,0 +1,69 @@
+Copilot
+Prompt Engineering
+popular prompt engineering frameworks
+Copilot in word, excel, powerpoint, etc.
+Copilot chat : introduction to AI agents
+Copilot Studio 
+creation of agent
+knowledge, test
+workflows
+-------------------------------------
+AI : 
+
+Python
+python libraries
+Google, Microsoft, etc. : public datasets
+Machine learning, Deep Learning frameworks(tensorflow, pytorch)
+CNN
+Natural Language Processing(NLP)  : RNN
+LSTM, Encoder Decoder, Transformers(2017)
+Next word prediction
+GPT: Generative Pretrained Transformer
+LLM: Large Language Model
+Vision Transformers(ViT)
+Gen AI: generate text, audio, video, images, code, speech, etc.
+
+Chat GPT
+Gemini
+Copilot 
+Claude
+-------------------------------------------------------------------------------------
+Copilot : using offline app or online browser
+Copilot within office 365 : word, excel, PowerPoint, teams, outlook
+Copilot Studio : agents
+-------------------------------------------------------
+Free
+Microsoft 365 for business
+M365 copilot(basic)
+M365 copilot(premium)
+
+Copilot studio :  Azure 
+----------------------------------------------
+Prompt Engineering
+
+semantic similarity
+iterative prompting
+
+GCSE: Goal, Context, Source, Expectations
+RTCF
+CoT Prompting
+Shot based prompting : 
+	Zero Shot prompting
+	One Shot prompting
+	Many shot prompting
+--------------------------https://github.com/Aazeeb/stryker------------------------
+
+RAG (Retrieval Augmented Generation)
+
+
+
+
+
+
+
+
+
+
+
+
+
