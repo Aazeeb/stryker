@@ -1,0 +1,61 @@
+1. Get form response details
+
+Use Get Response Details Get response details for the "Crypto Tutoring Services Form."
+
+Extract the following fields
+
+Student Name
+
+Student Email Address
+
+Selected Topic (Copilot Studio, LinkedIn Optimization, Soft Skills, AI Programming)
+
+Additional Information.
+
+2. Retrieve the corresponding tutor from the Tutor Directory
+
+Use List rows present in a table to retrieve all rows from the Tutor Directory table
+
+where Topic equals the "Selected Topic from the form response.
+
+(If multiple tutors match, select the first row or the row that meets your preferred rule.)
+
+3. Draft an email message to the assigned tutor
+
+Using Draft an email message Draft an email message to notify the tutor of the new request.
+
+Example Email:
+
+Hi [TutorName].
+
+A new tutoring request has been assigned to you.
+
+Student Name: [StudentName]
+
+Student Email: [StudentEmail]
+
+Topic: [TopicOrChapter)
+
+Summary: [ShortDescription)
+
+Please reach out to the student to schedule the session.
+
+-Crypto Tutoring Intake Agent
+
+4. Run "Send a draft message"
+
+Using Send a Draft message to send the drafted message to the tutor using the dynamic content from Step 3.
+
+5. Use Add a row into a table to dynamically fill in:
+
+Customer Name with the Name field from the form
+
+Phone Number with the phone number field from the form
+
+Email Address from the Email address from the form
+
+Topic from the Topic selected on the form
+
+Additional Information from the Description field from the form
+
+Assigned Tutor Name from the TutorName from the Tutor Directory
